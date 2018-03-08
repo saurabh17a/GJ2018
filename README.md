@@ -1,1 +1,1 @@
-"Website for GyanJyoti - Annual tech fest of HCST." 
+##Website for GyanJyoti - Annual tech fest of HCST. 
