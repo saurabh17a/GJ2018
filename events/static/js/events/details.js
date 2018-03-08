@@ -911,16 +911,12 @@ $('.card').on('click',function () {
         </div>\
         </div>\
         ";
-    var breakfree = "<h1 style='text-align:center'>Breakfree:Western Dance Competition (HHI Auditions)</h1>\
+        var breakfree = "<h1 style='text-align:center'>AajaNachle(SoloDance)</h1>\
         <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size:1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;' ><a onclick='return groupDance();' id='groupdance' style='color:white' href='#2a' data-toggle='tab'>&nbsp;Group Dance</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;' ><a  onclick='return soloDance();' id='solodance' style='color:white' href='#3a' data-toggle='tab'>&nbsp;Solo Dance</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;' ><a  onclick='return duet();' id='duet' style='color:white' href='#4a' data-toggle='tab'>&nbsp;Duet</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;' ><a onclick='return groupDance();' id='groupdance' style='color:white' href='#2a' data-toggle='tab'>&nbsp;Rules</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#5a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
         </li>\
@@ -928,126 +924,40 @@ $('.card').on('click',function () {
         <div class='tab-content'>\
         <div class='tab-pane active' id='1a'>\
         <h1>Introduction</h1>\
-        <p>Welcome to the true culture of break dance. Elan & ηvision 2018 provides a platform for all the passionate dancers to show their talent and mesmerize the audience. Breakfree has always been one the most awaited events of Elan & ηvision.It consists of ‘three’ categories, namely:<br>\
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.Group Dance<br>\
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.Solo Dance<br>\
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.Duet<br><br>\
-        Adding to the enthusiasm of the event,this year Breakfree is associating with <i>HIP-HOP INTERNATIONAL(HHI) INDIA </i>to conduct the regional auditions of Indian Hip Hop Dance Championship for Hyderabad during the three days of the fest.<br><br>\
-        HIP-HOP INTERNATIONAL(HHI) INDIA is the only International dance platform in India and Indian Hip Hop Dance Championship is India’s most celebrated dance festival.<br><br>\
-        'Pick your body up and drop it on the floor<br>\
-        We never quit, we never rest on the floor<br>\
-        If I ain't wrong we'll probably die on the floor'<br>\
-        - Lines from Jlo's 'on the floor'.<br><br>\ If you really dance from the heart, if dance runs through your veins and if dance is in every minute of your life, then this is where you should be!<br>\
-        So rise and dance.<br>\
-        Dance with energy and show us whatchya got!!</p>\
+        <p>Aaja Nachle is the Solo Dance competition of GyanJyoti where various contestants participate to showcase there talent<br>\
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>\
         </div>\
-        <div class='tab-pane' id='2a'><br>\ <h1>Group Dance</h1> \
-        <p>Coordination is what matters when it comes to a group performance. It is a group dance event where one can show off their individual talents or spellbind the crowd with their coordination. It's time to move n shake n drop it.</p>\
-        <h1>EVENT FORMAT:</h1><p>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The Event will be conducted in 1 round at the IIT Hyderabad campus.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Minimum size of the team-6 and maximum size of the team-30.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> All the teams who have registered shall participate in the competition.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> During the whole competition, at any given time, minimum of 4  performers should be on the stage and a maximum of 20 performers should be on the stage.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The song must be of 3-5 minutes long for finals.</p>\
-        <h1>REGISTRATION:</h1><p>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Only on-line registrations allowed for this event.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The head of the team should register online with the participant names ,contact number and crew name.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Each team will receive a confirmation mail back with the details of the team.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Teams should bring the print out of the confirmation mail.</p>\
-        <h1>RULES AND REGULATIONS:</h1><p>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Each team should contain a head to represent the team.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> All western dance forms are permitted.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Each team should contain a minimum of 6 participants.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Organizers will not provide the songs that participants require. Teams should bring their songs in a pendrive.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Teams should bring their own props but they should use them only with the approval of the organizers.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Any kind of fluid or flame is not allowed on the stage.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Each team would be given 3 mins of time for stage rehearsal and a stage setup time of 1 min.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The decision of the organizers and judges shall be final and binding.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The result for the event will be declared immediately after all the performances have been completed.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i>The organising team has the complete right to change the prize money if the participation is less than twenty-five.<br></p>\
-        <h1>JUDGING CRITERIA:</h1><p>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Musicality<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Creativity<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Music Mix<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Stage Use<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Performance<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Crowd Appeal<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Synchronization<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Difficulty of Execution<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Formation and Transaction<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Attire</p>\
-        </div>\
-        <div class='tab-pane' id='3a'><br>\
-        <h1>Solo Dance</h1><p>Got your own dance style you think you've mastered?<br>\
-        An event for pro solo dancers, make the crowd go crazy with those awesome, super cool moves of yours!<br>\
-        <h1>EVENT FORMAT:</h1><p>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The event will be conducted in 1 round at the IIT Hyderabad campus.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Performance duration should be 2-3 min for final.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> For prelims and final you have to bring your own song. You cannot repeat dance steps or moves. You can get similar music beats, but not similar dance steps.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Participants should bring their music/song in a pen drive and save the track on your name.</p>\
-        <h1>RULES AND REGULATIONS:</h1><p>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Registration can be done online and on-spot.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> You can perform any type of non-classical dance like hip-hop, stepping, popping, etc.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Participants should produce their ID card at the registration desk.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Props are allowed but heavy props like chairs, tables can be arranged. But you have to inform the event manager by mail or on phone at least 1 day before event.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> No fire, water and heavy objects be used in stage.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> No indecency/obscenity will be tolerated on stage.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Judges and coordinators decisions will be final and binding. There are no arguments in this regard.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The organising team has the complete right to change the prize money if the participation is less than ten.</p>\
-        <h1>JUDGING CRITERIA:</h1><p>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Musicality<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Creativity<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Stage Use<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Performance<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Crowd Appeal<br>\
-        </p></div>\
-        <div class='tab-pane' id='4a'><br>\
-        <h1>Duet</h1><p>A perfect event for a pair of dancers. Participants need to showcase their talent by dancing in duo. Could be couple or anyone who can dance to the grooves coordinating each other which is by the way very essential part of this event</p>\
-        <h1>EVENT FORMAT:</h1><p>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The event consists of 1 round which would take place agt the IIT Hyderabad’s campus.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The participants can either register online or on-spot.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> All the duos that’ve been registered shall participate in the competition.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The prelims performance should last 2-3 mins long.</p>\
-        <h1>RULES AND REGULATIONS:</h1><p>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Registrations should be done online.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> One of the two members in the duo should register with their name and contact number.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The team should consist of two participants irrespective of their gender.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> You can perform any type of non-classical dance like hip-hop, stepping, popping etc.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Participants should produce their ID card at the registration desk.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> An additional time of 2 minutes will be given for settling.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Props are allowed but heavy props like chairs, tables can be arranged. But you have to inform the event manager by mail or on phone at least 1 day before event.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> No fire, water and heavy objects be used in stage.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> No indecency/obscenity will be tolerated on stage.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The organising team has the complete right to change the prize money if the participation is less than ten.</p>\
-        <h1>JUDGING CRITERIA:</h1><p>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Musicality<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Creativity<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Synchronization<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Stage Use<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Performance</p>\
+        <div class='tab-pane' id='2a'><br>\ <h1>Qualifier round</h1> \
+        <p> <i class='fa fa-circle' style='font-size:8px;'></i> All dancers will showcase their choreography for 2 minutes<br>\</p>\
+         	<i class='fa fa-circle' style='font-size:8px;'></i> The usage of heavy props(Chairs,etc) is NOT permitted</p>\
+          	<i class='fa fa-circle' style='font-size:8px;'></i> Only registered entries are allowed to participate in the event.</p>\
+           	<i class='fa fa-circle' style='font-size:8px;'></i> Each participant will be evaluated by the judges.</p>\
+        <h1>Round 2: Final</h1><p>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> Only participants shortlisted from qualifier can participate in this round.<br>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> In this round participant will be tested by the judges<br>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> The performance should not exceed 4 minutes<br>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> The decision of the judges is final and binding<br>\
         </div>\
         <div class='tab-pane' id='5a'>\
         <h1>PRIZES:</h1>\
-        <p>Prizes worth Rs.55,000*/-</p>\
-        <p>Prizes will be given after April 2nd 2018</p>\
-        <p>The winners from each category would be selected for the HIP-HOP INTERNATIONAL(HHI) finals which would be held in Mumbai.</p>\
+        <p>Prizes worth Rs.2000*/-</p>\
+        <p>Prizes will be given after March 28 2018</p>\
         <h1>ORGANISERS:</h1><p>\
-        Raktim Goswami - 8255061193<br>\
-        Aniruth - 9952934246<br>\
-        Akshath Loya - 8149987179\
+        TULIKA GUPTA (CS) - 7310742345<br>\
+        ADWITYA DUBE(IT) - \
         </p>\
         </div>\
         </div>\
         </div>\
         ";
-    var nrithyanjali = "<h1 style='text-align:center'>Nrithyanjali: A Classical Dance Competition</h1><h2 style='text-align:center'>Sponsored by LIC </h2>\
+    var nrithyanjali = "<h1 style='text-align:center'>Kakli Dhamaal (DuetDance)</h1>\
         <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event format</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Rules</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
         </li>\
@@ -1055,53 +965,38 @@ $('.card').on('click',function () {
         <div class='tab-content'>\
         <div class='tab-pane active' id='1a'>\
         <h1>Introduction</h1>\
-        <p>Dance, as we know ,is one of the 64 forms of art in the Indian Culture. It embodies all forms of physical art and learning. It is a kinetic form of body language expressed in unarticulated emotions.\ Classical dance is the fusion of mind's emotions and body's articulate movements. So, we call upon all the classical dancers to come and produce the medly of most graceful and most expressive.<br>\
-        Come and drown yourself in divine, grace, beauty, tenderness to delight the eyes and souls of the viewers.</p>\
+        <p></p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>EVENT FORMAT:</h1>\
-        <p><i class='fa fa-circle' style='font-size:8px;'></i> Event consists of only one round and the results are decided by the judge.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The competition is open only to college students with a valid ID card.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> You can perform in any Indian classical dance form [we'd love to see Bharatanatyam, Kuchipudi, Odissi, Mohiniyattam and others]. However there are no separate judging categories for the different forms.<br>\
-        </div>\
-        <div class='tab-pane' id='3a'>\
-        </p><h1>RULES AND REGULATIONS:</h1><p>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Semi-classical/ classical on Bollywood songs are strictly not allowed.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Live music is not allowed.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The participants will perform on pre-recorded music which should be brought in a pen drive by the participants.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Participants would be given a maximum performance time of 10 minutes and the performance should last for a minimum of 5 mins, anyone exceeding this time limit will get penalty of points.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> There will be a small weightage for costumes. Dance should consist of both Nritya and Abhinaya.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Participants will have to bring their own costumes, accessories and make-up for the competition.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Any illegal or unethical act related to the competition and or on its stage, auditorium premises will lead to immediate disqualification.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Points will be awarded for rhythm, choice of song and dance, expression, costumes and synchronization.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Organizers decision is final and binding to all.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Obscenity of any kind is not allowed and will lead to immediate disqualification.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The organising team has the complete right to change the prize money if the participation is less than five.<br>\
-        </p><h1>JUDGING CRITERIA:</h1><p>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Rhythm<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Choice of song and dance<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Expressions<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Costume<br></p>\
+        </p><h1>Qualifier</h1><p>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> All dancers will showcase at the qualifier rounds<br>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> In this round participant will be tested by the judge<br>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> Only registered entries are allowed to participate in the event.</p>\
+           	<i class='fa fa-circle' style='font-size:8px;'></i> Each participant will be evaluated by the judges.</p>\
+        <h1>Round 2: Final</h1><p>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> Only participants shortlisted from qualifier can participate in this round.<br>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> In this round participant will be tested by the judges<br>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> The performance should not exceed 4 minutes<br>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> The decision of the judges is final and binding<br>\
         </div>\
         <div class='tab-pane' id='4a'>\
-          <h1>PRIZES:</h1><p>\
-        Prizes worth INR 15,000*/-</p>\
-        <p>Prizes will be given after April 2nd 2018</p>\
+         <h1>PRIZES:</h1>\
+        <p>Prizes worth Rs.2000*/-</p>\
+        <p>Prizes will be given after March 28 2018</p>\
         <h1>ORGANISERS:</h1><p>\
-        Hema Varshita - 8096355327\
+        TULIKA GUPTA (CS) - 7310742345<br>\
+        ADWITYA DUBE(IT) - \
         </p>\
         </div>\
         </div>\
         </div>\
         ";
-    var stepup = "<h1 style='text-align:center'>Step up:Street dance battles</h1>\
+    var stepup = "<h1 style='text-align:center'>Chak De Fatte (GroupDance) </h1>\
         <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event format</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Rules</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
         </li>\
@@ -1109,34 +1004,34 @@ $('.card').on('click',function () {
         <div class='tab-content'>\
         <div class='tab-pane active' id='1a'>\
         <h1>Introduction</h1>\
-        <p>For the first time ever Elan & ηvision 2018 brings to you the street dance battle.You think you’ve mastered a dance form?Show-off your dancing skills in the one-on-one face-off and prove yourself.Mesmerise the crowd with your insanely good dance steps and make ‘em go crazy.Engage everyone in this intense battle ,where your moves are your  weapons.</p>\
+        <p></p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>EVENT FORMAT:</h1><p>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> There will be only one-round for this event.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The participants will battle in a one-on-one face-off.The pairing of participants will be decided by the organizers.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The participants would be given a track by the organizers 2 hours prior to the event.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Registrations can be done online or on-spot.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> On-spot registrations close 3 hours prior to the commencement of the event.</p>\
-        </div>\
-        <div class='tab-pane' id='3a'>\
-        </p><h1>RULES AND REGULATIONS:</h1><p>\
-        <p>\ <i class='fa fa-circle' style='font-size:8px;'></i> All sorts of western dance forms are allowed.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Participants should choose only one dance form and choreograph the track accordingly.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Any kind of inappropriate behaviour will lead to disqualification.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The organising team has the complete right to change the prize money if the participation is less than ten.</p>\
+        <h1>Rules</h1><p>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> A preliminary round will be held to shortlist the teams<br>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> All teams of hcst need toper form for 2 minutes (minimum) to 3 minutes (maximum) in front of panel.Only shortlisted teams will be allowed to participate in the finals <br>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> On Stage Time : 8 Minutes; 6 minutes is for the performance and 2 minutes is for miscellaneous use which includes entry, exit, setting up etc<br>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> Number of participants (size of the crew) :4 - 8 member<br>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> Exceeding the time limit will lead to deduction of points</p>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> The competition music must not contain in appropriate , lewdor offensive language.</p>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> Extra fittings / props are allowed with an exception of fire related ones or pyrotechnics. Backdrops, scenery are permitted provided they can be carried on, setup and removed with in 10 seconds of being called on to the stage or at the completion of the performance.</p>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> Atire may include accessories such as hats, caps, gloves, scarves, jewelery, etc. Removing pieces of clothing during the performance is permited provided if it is not offensive or out of character. Clothing that is too short, suggestive or inappropriate for the age of the performer is not allowed.</p>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> Glass Bangles are not alowed</p>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> Each team wil be evaluated by the judges on the folowing criteria : skils, musicality, performance, creativity and selection of song.</p>\
+        <i class='fa fa-circle' style='font-size:8px;'></i> The decision of the judges will be final.</p>\
         </div>\
         <div class='tab-pane' id='4a'>\
         <h1>PRIZES:</h1><p>\
-        Prizes worth Rs.10,000*.</p>\
-        <p>Prizes will be given after April 2nd 2018</p>\
-        <h1>ORGANISERS:</h1>\
-        Will be updated soon.</p>\
+        <p>Prizes worth Rs.2000*/-</p>\
+        <p>Prizes will be given after March 28 2018</p>\
+        <h1>ORGANISERS:</h1><p>\
+        TULIKA GUPTA (CS) - 7310742345<br>\
+        ADWITYA DUBE(IT) -<br>\
         </div>\
         </div>\
         </div>\
         ";
-    var vibrazione = "<h1 style='text-align:center'>Vibrazione: A Solo Singing Competition</h1>\
+      var vibrazione = "<h1 style='text-align:center'>Vibrazione: A Solo Singing Competition</h1>\
         <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
