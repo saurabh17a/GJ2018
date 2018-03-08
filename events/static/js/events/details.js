@@ -21,57 +21,33 @@ $('.card').on('click',function () {
           <i class='fa fa-circle' style='font-size:8px;'></i> For any queries Contact Kabir Sharda: 9867327421 or email at kabir@elan.org.in<br>\
           <i class='fa fa-circle' style='font-size:8px;'></i> The applicant must agree to abide by all rules, as changed from time to time by the Organisers.</p>\
           ";
-      var dtmf = "<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>DTMF Race</h1>\
+      var dtmf = "</a><h1 style='text-align:center;display:inline-block;width:70%;'>Electric Nova</h1>\
           <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
         </li>\
         </ul>\
         <div class='tab-content'>\
         <div class='tab-pane active' id='1a'>\
         <h1>Introduction</h1>\
-          <p>Gear up with your wireless bot. Here comes the race which will test the strength, stability, and cruelty of your bot. It's all about racing towards the finish line through tough terrain by crushing your opponents. Let's see who’s bot is better equipped, better designed to win.\
+          <p>Gear up your electric brain signals and explore this event\
           </p>\
-          <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem statement:</h1>\
-          <p>As the name suggests, the bot has to complete a track having various obstacles. Your bot has to complete the race overcoming and avoiding various obstacles in the least possible time.\
-          The participants should prepare a wireless DTMF bot which competes with other bots in an obstacle race.\
-          Note: Track for the Obstacle race will be made up of different terrains with obstacles to test the participant’s control of the bot. It’s made wide enough for one bot to navigate freely.\
-          <br><br><a  href='/static/pdf/dtmf.pdf'><button class='btn2'>Problem statement PDF</button></a></p>\
+        <h1>About:</h1>\
+          <p>The event will have two rounds.<br>Round 1: There will be a quiz based on concept of Electric and Electronics.<br>Round 2: A slide will be shown on a topic of<br>Electronics and an instant quiz will be played<br>Round 3: Circuit board design contest.</p>\
         </div>\
         <div class='tab-pane' id='3a'>\
         <h1>Event rules:</h1><p>\
-        1.A team may consist of a maximum of 4 members.<br>\
+        1.A team may consist of a maximum of 1 member.<br>\
         2.No person can be a part of more than one team.<br>\
         3.All students must carry a valid identity card<br>\
-        4.All members of team need to register for the event<br>\
-        5.Students from different educational institutes can form a team.<br>\
-        6.Organizer’s decision shall be treated as final and binding on all.</p>\
-        <h1>Certification Policy:</h1><p>\
-        1.Certificate of Merit and Prizes will be given for the top two teams.<br>\
-        2. Participation Certificate will be given for those who registered online and participated in the event.<br>\
-        3. Participation Certificate is not guaranteed for those who registered on spot for the event.</p>\
-          <h1>Judging criteria:</h1>\
-          <p>The bot which completes the race in the least possible time is declared as winner\
-          </p>\
-        </div>\
-        <div class='tab-pane' id='4a'>\
-          <h1>Prize:</h1>\
-          <p>Prizes Worth INR 10,000*/-</p>\
-          <p>Prizes will be given after April 2nd 2018</p>\
-          <h1>Organisers:</h1>\
-          <p>Vivek vardhan-9701103218<br>Chakradhar-8500584109<br>Athava Naga Teja-7660827557<br>Dheeraj-9640783673</p>\
-          <h1>Contact:</h1>\
-          <p><a href='mailto:techy@elan.org.in'>techy@elan.org.in</a></p>\
-          </p>\
+        4.Organizer’s decision shall be treated as final and binding on all.</p>\
+        5.Participation fees is 50/- per head.\
         </div>\
         </div>\
         </div>\
@@ -81,7 +57,7 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -125,7 +101,7 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -140,7 +116,7 @@ $('.card').on('click',function () {
         <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h2>Problem statement:</h2><p>\
+        <h2>Event Description:</h2><p>\
         As the name suggests this event is based on one of the hottest topics in today’s world that is, internet of things. This event checks the basic level knowledge of the student in the field of IOT.<br>\
         This event will consist of three rounds namely,<br>\
         Qualification round<br>\
@@ -182,21 +158,19 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
         </li>\
         </ul>\
         <div class='tab-content'>\
         <div class='tab-pane active' id='1a'>\
         <h1>Introduction</h1><p>\
-        One of the important works of an electric student is to debug a circuit. This event will test your ability to understand the circuit and debug it. You will have to tweak the circuit given to you to make it work according to the problem statement.\
+        One of the important works of an electric student is to debug a circuit. This event will test your ability to understand the circuit and debug it. You will have to tweak the circuit given to you to make it work according to the Event Description.\
         </p><p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem statement</h1>\
+        <h1>Event Description</h1>\
         <p><i class='fa fa-circle' style='font-size:8px;'></i> Round 1<br>\
          This round will be theoretical and some general question on electronics will be asked.<br><br> \
         <i class='fa fa-circle' style='font-size:8px;'></i> Round 2<br>\
@@ -224,119 +198,74 @@ $('.card').on('click',function () {
         </div>\
         </div>\
         ";
-    var junkyard ="<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>Junkyard Wars</h1>\
-        <ul  class='nav nav-tabs'>\
+    var junkyard ="</a><h1 style='text-align:center;display:inline-block;width:70%;'>Mecholites</h1>\
+          <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
         </li>\
         </ul>\
         <div class='tab-content'>\
         <div class='tab-pane active' id='1a'>\
         <h1>Introduction</h1>\
-        <p>'Engineers like to solve problems .If there are no problems handily available, they will create their own problems'-Scott Adams.</p>\
-        <p>It’s time for your team to dive into innovation and creativity, find a good solution and emerge as jugaads. So, pile up your enthusiasm to win the battle.</p>\
-        <p>Event will be on 10th or 11th Febuary 2018</p>\
+          <p>Where all the mechanical engineers at?\
+          </p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Event Format:</h1><p>\
-        1. This is a on the spot event where participants will asked to make model using the given components.<br>\
-        2. There are two rounds to this event.<br>\
-           a. First Round:<br>\
-              i. Teams have to present their design in two hours.<br>ii. Teams will be allowed to use the internet facilities available in forming ideas.<br>\
-              iii. Five teams will be shortlisted for next round.<br>\
-           b. Second Round:<br>\
-              i. The shortlisted teams will have to manufacture their product (on the design provided by them) using only the materials from a pile of junk within a certain time limit.<br>\
+        <h1>About:</h1>\
+          <p>The event will have two rounds.<br>Round 1: There will be a quiz based on concept of Mechanics.<br>Round 2: Identification of mechanics used in the work of mechanical field</p>\
         </div>\
         <div class='tab-pane' id='3a'>\
-        <h1>Judging criteria:</h1><p>\
-        1. Originality of the design<br>\
-        2. Its simplicity<br>\
-        3. The science involved<br>\
-        4. The efficiency of the machine<br>\
-        <h1>Event Rules</h1><p>\
-        1. The teams must have at least 3 members and a maximum of 5 members.<br>\
-        2. Every member on the team must register for the event on the website<br>\
-        3. The decision made by the judges will be final and binding.<br>\
-        4. The organisers reserve the right to make changes to the event as/when necessary.<br>\
-        </div>\
-        <div class='tab-pane' id='4a'>\
-        <h1>Prize</h1>\
-        <p>Prizes Worth INR 5,000*/-</p>\
-        <p>Prizes will be given after April 2nd 2018</p>\
-        <h1>Organisers:</h1>\
-        <p>Venkat-9490552078<br>\
-        Sagar Balla-+91 90108 60164<br>\
-        B.Dhanush-9121491040<br>\
-        Aparna Ambarapu-9182254470</p>\
-        <h1>Contact:</h1>\
-        <p><a href='mailto:techy@elan.org.in'>techy@elan.org.in</a></p>\
-        </p>\
-        </p>\
-        </p>\
-        </p>\
+        <h1>Event rules:</h1><p>\
+        1.A team may consist of a maximum of 1 member.<br>\
+        2.No person can be a part of more than one team.<br>\
+        3.All students must carry a valid identity card<br>\
+        4.Organizer’s decision shall be treated as final and binding on all.</p>\
+        5.Participation fees is 100/- per head.\
         </div>\
         </div>\
         </div>\
-        ";
-    var bridge = "<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>Bridge Builder</h1>\
-        <ul  class='nav nav-tabs'>\
+          ";
+    var bridge = "</a><h1 style='text-align:center;display:inline-block;width:70%;'>Bridge The Gap</h1>\
+          <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
         </li>\
         </ul>\
         <div class='tab-content'>\
         <div class='tab-pane active' id='1a'>\
         <h1>Introduction</h1>\
-        <p>Civil Engineering is an art; a profession of creative ability and logic. Architect provides an opportunity for participants to unleash their innovation in designing an object of significance and splendour .This event aims to harness practical design and constructional abilities of the participants.</p>\
-        <p>Event will be on 10th or 11th Febuary 2018</p>\
+          <p>Let's see if the 'CIVILIANS' are notorius here.\
+          </p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem statement</h1>\
-        <p>Participants have to design a Bridge using Popsicle sticks (icecream sticks) satisfying the given constraints.<br>\
-        <br><a  href='/static/pdf/bridge.pdf'><button class='btn2'>Problem statement PDF</button></a><br>\
-        <h1>Event Format:</h1><br>\
-        1.There will be only one round in which bridges will be tested.<br>2.Participants have to come with their bridges.\
+        <h1>About:</h1>\
+          <p>The event will have a rapid fire quiz based on concept of Civil Engineering.</p>\
         </div>\
         <div class='tab-pane' id='3a'>\
-        <h1>General Rules</h1>\
-        <p>1.  Team size could be of 3-5 members<br>\
-        2.  All members of the team should be enrolled as students in an  educational institute.<br>\
-        3.  No person can be a part of more than one team.<br>\
-        4.  Decision of Judges will be final and binding.</p>\
-        </div>\
-        <div class='tab-pane' id='4a'>\
-        <h1>Prize</h1>\
-        <p>Prizes Worth INR 20,000*/-</p>\
-        <p>Prizes will be given after April 2nd 2018</p>\
-        <h1>Organisers:</h1>\
-        <p>Sreekanth-+91 94920 01624<br>\
-        Sushanth-+91 95507 90976<br>\
-        Joel Prakash-9121635775<br>\
-        Chandra Kiran-8330925099</p>\
-        <h1>Contact:</h1>\
-        <p><a href='mailto:techy@elan.org.in'>techy@elan.org.in</a></p>\
+        <h1>Event rules:</h1><p>\
+        1.A team may consist of a maximum of 1 member.<br>\
+        2.No person can be a part of more than one team.<br>\
+        3.All students must carry a valid identity card<br>\
+        4.Organizer’s decision shall be treated as final and binding on all.</p>\
+        5.Participation fees is 50/- per head.\
         </div>\
         </div>\
         </div>\
-        ";
+          ";
     var salesman ="<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>Salesman of Fest</h1>\
         <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -381,7 +310,7 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -423,7 +352,7 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -437,8 +366,8 @@ $('.card').on('click',function () {
         <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem statement</h1>\
-        <p><i class='fa fa-circle' style='font-size:8px;'></i> It will be an on-spot designing round. Participants will be given a problem statement at the time of event and they have to submit their design in the specified time limit.<br>\<i class='fa fa-circle' style='font-size:8px;'></i>  Each Question will carry some points according to the type of question and its level of difficulty.<br>\
+        <h1>Event Description</h1>\
+        <p><i class='fa fa-circle' style='font-size:8px;'></i> It will be an on-spot designing round. Participants will be given a Event Description at the time of event and they have to submit their design in the specified time limit.<br>\<i class='fa fa-circle' style='font-size:8px;'></i>  Each Question will carry some points according to the type of question and its level of difficulty.<br>\
         <i class='fa fa-circle' style='font-size:8px;'></i> Models can be prepared in any CAD software (CATIA/Pro E/AutoCad/Solidworks/Solidedge) and the final file must be prepared in IGES or STEP format. Bring your own laptops with necessary softwares installed.<br>\
         </div>\
         <div class='tab-pane' id='3a'>\
@@ -475,7 +404,7 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -489,9 +418,9 @@ $('.card').on('click',function () {
         <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem statement:</h1>\
+        <h1>Event Description:</h1>\
         <p>In this event ,the contestants are expected to make to an IC engine powered machine ,that can be controlled remotely using a wireless remote controller, which can race against machines of similar construct on an all-terrain track packed with a number of obstacles.\
-        <br><br><a  href='/static/pdf/driftking.pdf'><button class='btn2'>Problem statement PDF</button></a>\
+        <br><br><a  href='/static/pdf/driftking.pdf'><button class='btn2'>Event Description PDF</button></a>\
         </div>\
         <div class='tab-pane' id='3a'>\
         <h1>Rules and Regulations:</h1><p>\
@@ -515,59 +444,43 @@ $('.card').on('click',function () {
         </div>\
         </div>\
         ";
-    var robowars = "<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>Robowars</h1>\
-        <ul  class='nav nav-tabs'>\
+    var robowars = "</a><h1 style='text-align:center;display:inline-block;width:70%;'>Mecholites</h1>\
+          <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
         </li>\
         </ul>\
         <div class='tab-content'>\
         <div class='tab-pane active' id='1a'>\
-        <h1>Introduction:</h1><p>\
-        <p>Interested in designing a bot? Want to test your robotic skills? The challenge is to create a robot (manually controlled / autonomous) whose sole purpose is to immobilize or otherwise move your opponent out of the arena within a stipulated time. This event aims to test your Robot against another in a field of combat where brute strength and cat-like reflexes hold the key to success.</p>\
-        <p>Event will be on 10th or 11th Febuary 2018</p>\
+        <h1>Introduction</h1>\
+          <p>Talk is cheap, show me the code.\
+          </p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem Statement:</h1><p>\
-        <p><br><a  href='/static/pdf/robowars.pdf'><button class='btn2'>Problem statement PDF</button></a></p>\
+        <h1>About:</h1>\
+          <p>The event will have a quiz based on concepts of Programming.</p>\
         </div>\
         <div class='tab-pane' id='3a'>\
-        <h1>Rules and Regulations:</h1>\
-        <p>1. The maximum size of a team is 4.<br>\
-        2. A robot that is unsafe, as deemed by the judges, will be disqualified immediately and the opponent robot will be declared as the winner.<br>\
-        3. The bot is not allowed to leave anything behind during the run. It should not leave any mark on the arena. Any bot found damaging the arena will be immediately disqualified.<br>\
-        4. If there is any kind of ambiguity in the selection of weapon systems, please clarify the same with the event organizers to avoid further confusion.<br>\
-        5. The Victory if both bots remain mobile will be based on the judges at their discretion.The judge's decision will be final and the points will be kept confidential.<br>\
-        6. Changes in rules, if any, will be highlighted on the website.</p>\
-        <h1>Certificate Policy:</h1><p>\
-        1. The top 3 teams emerging from this competition will be awarded a Certificate of Excellence.<br>\
-        2. All teams who have registered online and participated in the event during fest will be awarded a Participation Certificate</p>\
-        </div>\
-        <div class='tab-pane' id='4a'>\
-        <h1>Prize</h1>\
-        <p> Prizes Worth INR 50,000*/-\
-        <p>Prizes will be given after April 2nd 2018</p>\
-        </p>\
-        <h1>Organisers</h1>\
-        <p>Abhilash Reddy-8096811565<br>Dinesh Chandra -8555930809<br>Revanth Naik-97012 09025</p>\
-        <h1>Contact:</h1>\
-        <p><a href='mailto:techy@elan.org.in'>techy@elan.org.in</a></p>\
+        <h1>Event rules:</h1><p>\
+        1.A team may consist of a maximum of 1 member.<br>\
+        2.No person can be a part of more than one team.<br>\
+        3.All students must carry a valid identity card<br>\
+        4.Organizer’s decision shall be treated as final and binding on all.</p>\
+        5.Participation fees is 100/- per head.\
         </div>\
         </div>\
         </div>\
-        ";
+          ";
     var robosoccer = "<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>RoboSoccer</h1>\
         <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -581,8 +494,8 @@ $('.card').on('click',function () {
         <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem Statement:</h1>\ <p>Build two bots that can kick a table tennis ball into the opponent’s Goal Post following the rules. Use your creativity and come up with innovative kicking mechanisms to smash the ball into the goal post.</p>\
-        <p><br><a  href='/static/pdf/robosoccer.pdf'><button class='btn2'>Problem statement PDF</button></a></p>\
+        <h1>Event Description:</h1>\ <p>Build two bots that can kick a table tennis ball into the opponent’s Goal Post following the rules. Use your creativity and come up with innovative kicking mechanisms to smash the ball into the goal post.</p>\
+        <p><br><a  href='/static/pdf/robosoccer.pdf'><button class='btn2'>Event Description PDF</button></a></p>\
         </div>\
         <div class='tab-pane' id='3a'>\
         <h1>Judging criteria:</h1>\
@@ -609,7 +522,7 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -623,9 +536,9 @@ $('.card').on('click',function () {
         <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem statement</h1>\
+        <h1>Event Description</h1>\
         <p>Make a wired/wireless which can float on water and can perform pick-n-place task …Like manipulating cubes and balls…….</p>\
-        <p><br><a  href='/static/pdf/pirates.pdf'><button class='btn2'>Problem statement PDF</button></a></p>\
+        <p><br><a  href='/static/pdf/pirates.pdf'><button class='btn2'>Event Description PDF</button></a></p>\
         </div>\
         <div class='tab-pane' id='3a'>\
                 <h1>General Rules</h1><p>\
@@ -658,7 +571,7 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -672,8 +585,8 @@ $('.card').on('click',function () {
         <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem Statement</h1>\
-        <p><br><a  href='/static/pdf/linerobo.pdf'><button class='btn2'>Problem statement PDF</button></a></p>\
+        <h1>Event Description</h1>\
+        <p><br><a  href='/static/pdf/linerobo.pdf'><button class='btn2'>Event Description PDF</button></a></p>\
         </div>\
         <div class='tab-pane' id='3a'>\
         <h1>RULES AND REGULATIONS</h1><p>\
@@ -705,7 +618,7 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -724,9 +637,9 @@ $('.card').on('click',function () {
         <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem statement</h1><p>\
+        <h1>Event Description</h1><p>\
         The participants are required to design and build a water rocket (single stage/multi stage) that is completely powered by the thrust provided by compressed air in the bottle and using water as the fuel \
-        <br><a  href='/static/pdf/aquanaut.pdf'><button class='btn2'>Problem statement PDF</button></a>\
+        <br><a  href='/static/pdf/aquanaut.pdf'><button class='btn2'>Event Description PDF</button></a>\
         </div>\
         <div class='tab-pane' id='3a'>\
         <h1>Rules and Regulations:</h1><p>\
@@ -762,71 +675,43 @@ $('.card').on('click',function () {
         </div>\
         </div>\
         ";
-    var galileo = "<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>Galileo Project</h1>\
-        <ul  class='nav nav-tabs'>\
+    var galileo = "</a><h1 style='text-align:center;display:inline-block;width:70%;'>Chemergence</h1>\
+          <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
         </li>\
         </ul>\
         <div class='tab-content'>\
         <div class='tab-pane active' id='1a'>\
         <h1>Introduction</h1>\
-        <p>'By taking the sense our sense of sight far beyond the realm of our forebear’s imagination, these wonderful instruments, the telescopes, open the way to a deeper and more perfect understanding of nature.' - Rene Descartes.<br> Make your own Optical tube. This event is based on building of a simple terrestrial telescope with given components. Also, test your talent in physics by participating in a challenging quiz.</p>\
-        <p>Event will be on 10th or 11th Febuary 2018</p>\
+          <p>For the ones that indulge too much into the Bio-Engineering.\
+          </p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem statement:</h1><p>\
-        The event will be consisting of three rounds.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Round 1:<br>\
-        A quiz will be conducted to screen the participants. This quiz is based mostly on optics and physics of light.<br><br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Round 2:<br>\
-        Another quiz will be conducted to screen the participants. This quiz is based on Skymap and a few stellar objects.<br><br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Round 3:<br>\
-        The top ten teams from the quizzes will qualify to the third round. The teams have to make a terrestrial telescope with the components and infrastructure provided by the organizers.<br>\
-        </p>\
+        <h1>About:</h1>\
+          <p>The event will have two rounds.<br>Round 1: There will be a quiz based on on concepts of Environment ,Chemical and Biology.<br>Round 2: Extempore based on topics of Chemical, Biotech, and Environment Engineering.</p>\
         </div>\
         <div class='tab-pane' id='3a'>\
-        <h1>Judgement Criteria:</h1><p>\
-        1. Magnification<br>\
-        2. Clarity of the image<br>\
-        3. Overall Design<br></p>\
-        <h1>Certification Policy:</h1><p>\
-        1)Certificate of Merit and Prizes will be given for the top two teams.<br>\
-        2)Participation Certificate will be given for those who registered online and participated in the event.<br>\
-        3)Participation Certificate is not guarenteed for those who registered onspot for the event.<br>\
-        </p><h1>Rules and Regulations:</h1><p>\
-        1. Each team is allowed to have a maximum of three members.<br>\
-        2. Members of a team can be from different colleges.<br>\
-        3. If a member is found using any other components, other than the ones provided by the organizers, the team shall be disqualified<br>\
-        4. The Organizers reserve all rights to change any of the mentioned rules as they deem fit.<br>\
-        5. Changes in the rules, if any, will be highlighted on the website.<br>\
-        6. In case of any discrepancy, the decision of the organizers shall be final.\
-        </p>\
-        </div>\
-        <div class='tab-pane' id='4a'>\
-        <h1>Prize</h1><p>\
-        Prizes Worth INR 10,000*/-</p>\
-        <p>Prizes will be given after April 2nd 2018</p>\
-        <h1>Organisers</h1>\
-        <p>Will be updated soon</p>\
-        <h1>Contact:</h1>\
-        <p><a href='mailto:techy@elan.org.in'>techy@elan.org.in</a></p>\
+        <h1>Event rules:</h1><p>\
+        1.A team may consist of a maximum of 1 member.<br>\
+        2.No person can be a part of more than one team.<br>\
+        3.All students must carry a valid identity card<br>\
+        4.Organizer’s decision shall be treated as final and binding on all.</p>\
+        5.Participation fees is 50/- per head.\
         </div>\
         </div>\
         </div>\
-        ";
+          ";
     var enigma = "<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>Enigma</h1>\
         <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -840,7 +725,7 @@ $('.card').on('click',function () {
         <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem statement:</h1><p>\
+        <h1>Event Description:</h1><p>\
         Round 1:<br>\
         1.  It's a pen and paper event.<br>\ 2.  Each team has to decode a series of crypted messages.<br>\
         Round 2:<br>\
@@ -874,7 +759,7 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -889,7 +774,7 @@ $('.card').on('click',function () {
         <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1> Problem statement</h1><p> \
+        <h1> Event Description</h1><p> \
         It’s an on the spot event, in which there will a website/portal hosted locally and all the teams will have to navigate the website solving a series of puzzles and challenges.\
         </div>\
         <div class='tab-pane' id='3a'>\
@@ -920,7 +805,7 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -930,7 +815,7 @@ $('.card').on('click',function () {
         <div class='tab-content'>\
         <div class='tab-pane active' id='1a'>\
         <h1>Introduction:</h1>\
-        <p>Proquest is a competitive programming competition composed of two levels, for participants of all levels of expertise. Experience different levels of programming from pen and paper programming to a truly challenging problem statements.</p>\
+        <p>Proquest is a competitive programming competition composed of two levels, for participants of all levels of expertise. Experience different levels of programming from pen and paper programming to a truly challenging Event Descriptions.</p>\
         <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
@@ -963,7 +848,7 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -977,7 +862,7 @@ $('.card').on('click',function () {
         <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem statement:</h1><p> \
+        <h1>Event Description:</h1><p> \
         Here we will test your problem-solving ability in a series of steps. You will be given a set of puzzles and algorithmic problems. You have to write pseudocode or steps for solving a problem in words or draw a flowchart highlighting the approach for solving the problem anything which clearly describes your logic.\
         </p>\
         </div>\
@@ -1008,7 +893,7 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -1022,7 +907,7 @@ $('.card').on('click',function () {
         <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem statement:</h1><p> \
+        <h1>Event Description:</h1><p> \
         There will be two rounds both of which will happen during ElAN & Nvision at IIT Hyderabad.\
         </p>\
         </div>\
@@ -1056,7 +941,7 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -1070,7 +955,7 @@ $('.card').on('click',function () {
         <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem statement:</h1><p> \
+        <h1>Event Description:</h1><p> \
         There will be two rounds both of which will happen during ElAN & Nvision at IIT Hyderabad.</p> \
         </div>\
         <div class='tab-pane' id='3a'>\
@@ -2286,62 +2171,43 @@ $('.card').on('click',function () {
         <i class='fa fa-circle' style='font-size:8px;'></i>  The first rule of the Quiz Club is quizmaster's decision is final.<br>\
         <i class='fa fa-circle' style='font-size:8px;'></i>  No peeking. We call on your quizzer's honor.<br>\
         <i class='fa fa-circle' style='font-size:8px;'></i>  ‎Ships are safe in the harbour but that is not their purpose. Quizzers are safe with Google but that is not their purpose. Don't use Google or anything more than your gray matter.</p>";
-    var elmatrico = "<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>Elmatrico</h1>\
-        <ul  class='nav nav-tabs'>\
+    var elmatrico = "</a><h1 style='text-align:center;display:inline-block;width:70%;'>PhysiZone</h1>\
+          <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
         </li>\
         </ul>\
         <div class='tab-content'>\
         <div class='tab-pane active' id='1a'>\
-        <h1>Introduction:</h1>\
-        <p>Computer Simulations is an important aspect in the engineering world. This increases the demand for people who can use MATLAB and Simulink well.<br>\
-        ELAN & Nvision presents 'EL MATRICO', an online event to inspire students acquaint with MATLAB and compete to show their potential to the world! Every year, hundreds of contestants compete with budding programmers from all over India to earn the coveted top spot. In this online contest.<br>\
-        Exciting prizes from mathworks awaits for participants who successfully complete easy and moderate questions.<br>\
-        </p>\
+        <h1>Introduction</h1>\
+          <p>An event for all the physics geeks.\
+          </p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem Statement</h1>\
-        <p>Problem statements are at <a href='/elmatrico'>elan.org.in/elmatrico</a> </p>\
+        <h1>About:</h1>\
+          <p>The event will have two rounds<br>Round 1: The event will have a quiz based on basic Physics understanding.<br>Round 2: This round will have a quiz based on basic concepts of engineering physics.</p>\
         </div>\
         <div class='tab-pane' id='3a'>\
-          <h1>ELMATRICO RULES</h1><p>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The competition must be played individually.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The problem statement is divided into 3 parts - easy , moderate and difficult.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> All the question in easy part carries 5 marks,moderate 10 marks and difficult 30 marks.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> Plagiarism will result in disqualification.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> All the relevant information regarding The question is given in the question itself.<br>\
-        <i class='fa fa-circle' style='font-size:8px;'></i> The organisers verdict is final.</p>\
-        </div>\
-        <div class='tab-pane' id='4a'>\
-        <h1>Organisers</h1><p>\
-        <p>Sai Bharadwaj<br>\
-        bharadwaj@elan.org.in<br>\
-        91-7995270890<br><br>\
-        Shivarag Reddy<br>\
-        shivarag@elan.org.in<br>\
-        91-8885011011</p>\
-        <h1>Prize</h1>\
-        <p>Prizes Worth INR 5000*/-</p>\
-        <p>Prizes will be given after April 2nd 2018</p>\
-        <h1>Contact:</h1>\
-          <p><a href='mailto:techy@elan.org.in'>techy@elan.org.in</a></p>\
+        <h1>Event rules:</h1><p>\
+        1.A team may consist of a maximum of 1 member.<br>\
+        2.No person can be a part of more than one team.<br>\
+        3.All students must carry a valid identity card<br>\
+        4.Organizer’s decision shall be treated as final and binding on all.</p>\
+        5.Participation fees is 50/- per head.\
         </div>\
         </div>\
         </div>\
-        ";
+          ";
     var quadcopter = "<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>Quadcopter Challenge</h1>\
         <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -2356,9 +2222,9 @@ $('.card').on('click',function () {
         <p>Event will be on 10th or 11th Febuary 2018</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1 id='problem'>Problem Statement:</h1><p>\
-        The event is based on finding the agilest and fastest drone. The problem statement is simple: Pass through given levels and the team with a maximum number of points wins.</p>\
-        <br><a  href='/static/pdf/quadcopter.pdf'><button class='btn2'>Problem statement PDF</button></a></div>\
+        <h1 id='problem'>Event Description:</h1><p>\
+        The event is based on finding the agilest and fastest drone. The Event Description is simple: Pass through given levels and the team with a maximum number of points wins.</p>\
+        <br><a  href='/static/pdf/quadcopter.pdf'><button class='btn2'>Event Description PDF</button></a></div>\
         <div class='tab-pane' id='3a'> \
         <h1 id='rules'>Team Specifications:</h1> \
         <p>1.Team can have a max of 5 people.<br>\
@@ -2387,7 +2253,7 @@ $('.card').on('click',function () {
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Problem Statement</a>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
@@ -2400,8 +2266,8 @@ $('.card').on('click',function () {
         <p>ELAN&ηvision is delighted to announce Paper Presentation which aims to provide a platform for innovation where students  present papers spanning various research topics pertaining to the different branches of engineering and science. We expect to see some really innovative work. The event will be conducted in two rounds and the qualifiers from the 1st round will be presenting their work in the 2nd round during ELAN&ηvision 2018.</p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Problem Statement</h1>\
-        <p><br><a  href='/static/pdf/paperpt.pdf'><button class='btn2'>Problem statement PDF</button></a></<p>\
+        <h1>Event Description</h1>\
+        <p><br><a  href='/static/pdf/paperpt.pdf'><button class='btn2'>Event Description PDF</button></a></<p>\
         <p>Register and submit your abstracts here: <a href='/paperpt'>elan.org.in/paperpt</a></p>\
         </div>\
         <div class='tab-pane' id='3a'>\
@@ -2431,7 +2297,37 @@ $('.card').on('click',function () {
         </div>\
         </div>\
         ";
-    var helloworld = "<h1 style='text-align:center'>Event has ended.</h1>";
+    var helloworld = "</a><h1 style='text-align:center;display:inline-block;width:70%;'>MathOnauts</h1>\
+          <ul  class='nav nav-tabs'>\
+        <li class='active' style='font-size: 1.1em;margin: 1%;'>\
+        <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
+        </li>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
+        </li>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
+        </li>\
+        </ul>\
+        <div class='tab-content'>\
+        <div class='tab-pane active' id='1a'>\
+        <h1>Introduction</h1>\
+          <p>Trust us maths is a beauty.\
+          </p>\
+        </div>\
+        <div class='tab-pane' id='2a'>\
+        <h1>About:</h1>\
+          <p>The event will have two rounds<br>Round 1: The event will have a quiz based on basic Physics understanding.<br>Round 2: This round will have a quiz based on basic concepts of engineering physics.</p>\
+        </div>\
+        <div class='tab-pane' id='3a'>\
+        <h1>Event rules:</h1><p>\
+        1.A team may consist of a maximum of 1 member.<br>\
+        2.No person can be a part of more than one team.<br>\
+        3.All students must carry a valid identity card<br>\
+        4.Organizer’s decision shall be treated as final and binding on all.</p>\
+        5.Participation fees is 50/- per head.\
+        </div>\
+        </div>\
+        </div>\
+          ";
     var def = "<h1 style='text-align:center'>Coming Soon...</h1>";
 
 
