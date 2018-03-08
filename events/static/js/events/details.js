@@ -475,146 +475,39 @@ $('.card').on('click',function () {
         </div>\
         </div>\
           ";
-    var robosoccer = "<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>RoboSoccer</h1>\
-        <ul  class='nav nav-tabs'>\
+    var robosoccer = "</a><h1 style='text-align:center;display:inline-block;width:70%;'>Best Out Of Waste</h1>\
+          <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
-        </li>\
-        </ul>\
-        <div class='tab-content'>\
-        <div class='tab-pane active' id='1a'>\
-        <h1>Introduction:</h1>\
-        <p>A soccer freak as well as a Robotics Freak too? well, this event is just for you. RoboSoccer combines the universal excitement and amusement inspired by football, with the thrill and satisfaction of making a working robot from scratch. This event is a platform to showcase their robotics talents and bringing the football spirit alive. Teams are expected to build and operate a manual robot to play one-on-one soccer in a knockout tournament but just with cheering, heckling, massacres, nail-biters and a lot more!</p>\
-        <p>Event will be on 10th or 11th Febuary 2018</p>\
-        </div>\
-        <div class='tab-pane' id='2a'>\
-        <h1>Event Description:</h1>\ <p>Build two bots that can kick a table tennis ball into the opponent’s Goal Post following the rules. Use your creativity and come up with innovative kicking mechanisms to smash the ball into the goal post.</p>\
-        <p><br><a  href='/static/pdf/robosoccer.pdf'><button class='btn2'>Event Description PDF</button></a></p>\
-        </div>\
-        <div class='tab-pane' id='3a'>\
-        <h1>Judging criteria:</h1>\
-        <p>Finally, the winner is the team who scores more points at the end of the match. The winning team will be qualified to the next rounds.</p>\
-        <h1>General Rules:</h1><p>\
-        1.  Each team can have at max 4 members.<br>\
-        2.  All students with a valid identity card of their respective educational institutes are eligible to participate.<br>\ 3.  Students from different educational institutes can form a team.<br>\
-        4.  In case of any discrepancy, organizers’ decision is final. Arguing with organizer will lead to immediate disqualification.<br>\
-        </div>\
-        <div class='tab-pane' id='4a'>\
-        <h1>Prize:</h1>\
-        <p>Prizes Worth INR 40,000*/-</p>\
-        <p>Prizes will be given after April 2nd 2018</p>\
-        <h1>Organisers:</h1>\
-        <p>Vagesha Vardhan-9786954979<br>Bhanu Prasad-9100292117<br>N Yashodhan Reddy - 9553999950<br>Manohar Reddy - 7382082375<br>Srihas-7093313695</p>\
-        <h1>Contact:</h1>\
-        <p><a href='mailto:techy@elan.org.in'>techy@elan.org.in</a></p>\
-        </div>\
-        </div>\
-        </div>\
-        ";
-    var robopirates = "<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>Robo-Pirates</h1>\
-        <ul  class='nav nav-tabs'>\
-        <li class='active' style='font-size: 1.1em;margin: 1%;'>\
-        <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
         </li>\
         </ul>\
         <div class='tab-content'>\
         <div class='tab-pane active' id='1a'>\
         <h1>Introduction</h1>\
-        <p>Too bored with ground based robot events, you have come to the right place. Pirates is a ‘one of a kind’ event where you are given the platform to create your own robot which floats and navigates on water. Starting from scratch, you get the chance to showcase your creativity and awaken the little engineer in you.</p>\
-        <p>Event will be on 10th or 11th Febuary 2018</p>\
+          <p>Wasted enough? Create much.\
+          </p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Event Description</h1>\
-        <p>Make a wired/wireless which can float on water and can perform pick-n-place task …Like manipulating cubes and balls…….</p>\
-        <p><br><a  href='/static/pdf/pirates.pdf'><button class='btn2'>Event Description PDF</button></a></p>\
+        <h1>About:</h1>\
+          <p>There will be a model presentation.<br>The student have to make a technical model out of waste products only.</p>\
         </div>\
         <div class='tab-pane' id='3a'>\
-                <h1>General Rules</h1><p>\
-        1.  The teams must adhere to the spirit of healthy competition. The teams must not damage the opponent's machine in any way. Judges reserve the right to disqualify any team indulging in misbehavior.<br>\
-        2.  The mechanism used cannot be changed completely during the competition. Only parts can be replaced in case of repair.<br>\ 3.  Any team that is not ready at the time specified will be disqualified from the competition automatically.<br>\
-        4.  The machine would be checked for its safety before the race and would be discarded if found unsafe for other teams and spectators.<br>\
-        5.  Decision of the judges shall be treated as final and binding on all.<br>\
-        6.  A team must consist of 3 or less participants.<br>\ 7.  Students from different educational institutes can form a team.<br>\ 8.  All students with a valid identity card of their respective educational institutes are eligible to participate in the event.<br>\
-        <h1>Judging criteria</h1><p>\
-        1.  The team who score maximum points in 4 minutes will be the winner of that knockout round.<br>\
-        2.  If at any moment score of any team exceeds 350 then it will be the winner.<br>\ 3.  In case of TIE, teams will be given extra time, during which the team who scores first will be the winner of that round.<br>\
-        4.  Certificate of Excellence will be awarded to all winners (only first and second).<br>\
-        5.  Certificates of Participation will be given to all the teams who have qualified.<br>\
-        6.  Disqualified teams will not be considered for any certificates.</p>\
-        </div>\
-        <div class='tab-pane' id='4a'>\
-        <h1>Prize</h1>\
-        <p>Prizes Worth INR 25,000*/-</p>\
-        <p>Prizes will be given after April 2nd 2018</p>\
-        <h1>Organisers:</h1>\
-        <p>Shanmukha Rao Samanthula-9000273721<br>Maniteja -9010774589<br>Abhilash-97013 40387<br>Venkat-9494219983</p>\
-        <h1>Contact:</h1>\
-        <p><a href='mailto:techy@elan.org.in'>techy@elan.org.in</a></p>\
-        </div>\
-        </div>\
-        </div>\
-        ";
-    var linerobot = "<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>Line Robo</h1>\
-        <ul  class='nav nav-tabs'>\
-        <li class='active' style='font-size: 1.1em;margin: 1%;'>\
-        <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
-        </li>\
-        </ul>\
-        <div class='tab-content'>\
-        <div class='tab-pane active' id='1a'>\
-        <h1>Introduction</h1>\
-        <p>Robotics events are incomplete without a line follower competition. A simple black line on a white background and your robot must follow it. The track is filled withbends and curves.The task is to build an autonomous robot which is capable of traversing a black line on a white background. </p>\
-        <p>Event will be on 10th or 11th Febuary 2018</p>\
-        </div>\
-        <div class='tab-pane' id='2a'>\
-        <h1>Event Description</h1>\
-        <p><br><a  href='/static/pdf/linerobo.pdf'><button class='btn2'>Event Description PDF</button></a></p>\
-        </div>\
-        <div class='tab-pane' id='3a'>\
-        <h1>RULES AND REGULATIONS</h1><p>\
-        1.A team may consist of a maximum of 2 members.<br>\
+        <h1>Event rules:</h1><p>\
+        1.A team may consist of a maximum of 4-5 members.<br>\
         2.No person can be a part of more than one team.<br>\
         3.All students must carry a valid identity card<br>\
-        4.All members of team need to register for the event<br>\
-        5.Students from different educational institutes can form a team.<br>\
-        6.Organizer’s decision shall be treated as final and binding on all.</p>\
-        <h1>Certificate Policy:</h1><p>\
-        1. Certificate of Merit and Prizes will be given for the top two teams.<br>\
-        2. Participation Certificate will be given for those who registered online and participated in the event.<br>\
-        3. Participation Certificate is not guaranteed for those who registered on spot for the event.</p>\
-        </div>\
-        <div class='tab-pane' id='4a'>\
-        <h1>Prize</h1>\
-        <p>Prizes Worth INR 15,000*/-</p>\
-        <p>Prizes will be given after April 2nd 2018</p>\
-        <h1>Organisers</h1>\
-        <p>Baasha-9848604799<br>Khaja Redyy-7382013283<br>Sunil varma- 8317682299<br>Srihith paruchuru- 8332003346</p>\
-        <h1>Contact:</h1>\
-        <p><a href='mailto:techy@elan.org.in'>techy@elan.org.in</a></p>\
+        4.Organizer’s decision shall be treated as final and binding on all.</p>\
+        5.Participation fees is 400/- per team.\
         </div>\
         </div>\
         </div>\
-        ";
-    var aquanet = "<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>Aquanaut</h1>\
-        <ul  class='nav nav-tabs'>\
+          ";
+    var robopirates = "</a><h1 style='text-align:center;display:inline-block;width:70%;'>Best Out Of Waster</h1>\
+          <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
@@ -622,55 +515,91 @@ $('.card').on('click',function () {
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
+        </ul>\
+        <div class='tab-content'>\
+        <div class='tab-pane active' id='1a'>\
+        <h1>Introduction</h1>\
+          <p>Trust us maths is a beauty.\
+          </p>\
+        </div>\
+        <div class='tab-pane' id='2a'>\
+        <h1>About:</h1>\
+          <p>Topic will be given on the spot. The student will be given some time to search and study about the topic on the Internet.<br>There will be a quiz based on that topic.</p>\
+        </div>\
+        <div class='tab-pane' id='3a'>\
+        <h1>Event rules:</h1><p>\
+        1.A team may consist of a maximum of 1 member.<br>\
+        2.No person can be a part of more than one team.<br>\
+        3.All students must carry a valid identity card<br>\
+        4.Organizer’s decision shall be treated as final and binding on all.</p>\
+        5.Participation fees is 50/- per head.\
+        </div>\
+        </div>\
+        </div>\
+          ";
+    var linerobot = "</a><h1 style='text-align:center;display:inline-block;width:70%;'>Ancient Trifles</h1>\
+          <ul  class='nav nav-tabs'>\
+        <li class='active' style='font-size: 1.1em;margin: 1%;'>\
+        <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
+        </li>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
+        </li>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
         </ul>\
         <div class='tab-content'>\
         <div class='tab-pane active' id='1a'>\
-        <h1>Introduction:</h1>\
-        <p>Ever dreamt of building your own rocket prototype and flying it. \
-        Here’s your chance. \
-        Take your first big step to propel yourself into the world of aerodynamics.\
-        In this event, participants have to build a Water rocket which is pressurised by compressed air.\
-        'Be a Newton and test the Third law for yourselves'\
-        </p>\
-        <p>Event will be on 10th or 11th Febuary 2018</p>\
+        <h1>Introduction</h1>\
+          <p>Anybody here reads literature?.\
+          </p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1>Event Description</h1><p>\
-        The participants are required to design and build a water rocket (single stage/multi stage) that is completely powered by the thrust provided by compressed air in the bottle and using water as the fuel \
-        <br><a  href='/static/pdf/aquanaut.pdf'><button class='btn2'>Event Description PDF</button></a>\
+        <h1>About:</h1>\
+          <p>ROUND 1 :- Quiz based on the Modern History along with certain common abbreviation.<br>ROUND 2 :- Quiz based on Medieval History.<br>ROUND 3 :- Quiz based on Ancient History.</p>\
         </div>\
         <div class='tab-pane' id='3a'>\
-        <h1>Rules and Regulations:</h1><p>\
-        1.  A maximum of three members are allowed in a team.<br>\
-        2.  There can be students from different institutions in a team.<br>\
-        3.  Only plastic soft drink bottles are to be used as the rocket body.<br>\
-        4.  The rocket can be multi-staged but the total volume of the pressure chamber should not exceed 1.5 litres.<br>\
-        5.  The water rocket must only use compressed ambient atmospheric air as source of energy. Pressure compressors (foot pump) and water shall be provided.<br>\
-        6.  The amount of water to be filled in the rocket is left to the choice of the team.<br>\
-        7.  The pressure inside the pressure chamber should not exceed 50 psi.<br>\
-        8.  Launchers will not be provided by the organizers. Each team must have their own launchers.<br>\
-        9.  The rocket must be launched from a stationary position using a fixed launcher.Slingshots, trebuchets, catapults, cannons, and all other forms of launcher boost assists are forbidden. In other words, the internal pressure of the rocket must be the only source of energy for the rocket.<br><br><br>\
-        A team can get disqualified if:<br>\
-        1.  Any rocket is found to be dangerous to launch by the organizers and judges.<br>\
-        2.  A rocket blasts before the launch.<br>\
-        3.  A rocket launches before indicated by the organizers.<br>\
-        4.  Any part of the rocket breaks off from the rocket during the flight.<br>\
-        5.  Any ready-made models are used.<br>\
-        6.  Any design rule is not abided by the participant.<br>\
-        The organizers reserve all rights to change any of the above rules as they deem fit.<br>\
-        Changes in rules, if any, will be highlighted on the website. In case of any discrepancy, the decision of the judges shall be treated as final and binding.\
-        </p>\
+        <h1>Event rules:</h1><p>\
+        1.A team may consist of a maximum of 1 member.<br>\
+        2.No person can be a part of more than one team.<br>\
+        3.All students must carry a valid identity card<br>\
+        4.Organizer’s decision shall be treated as final and binding on all.</p>\
+        5.Participation fees is 50/- per head.\
         </div>\
-        <div class='tab-pane' id='4a'>\
-        <h1>Prize</h1><p>\
-        Prizes Worth INR 20,000*/-</p>\
-        <p>Prizes will be given after April 2nd 2018</p>\
-        <h1>Organisers</h1>\
-        <p>Raja Pradyumna-7093328322<br>Ashish-8500183293<br>Haveesh Singirikonda-7799665254</p>\
-        <h1>Contact:</h1>\
-        <p><a href='mailto:techy@elan.org.in'>techy@elan.org.in</a></p>\
+        </div>\
+        </div>\
+          ";
+    var aquanet = "</a><h1 style='text-align:center;display:inline-block;width:70%;'>Robo Soccer</h1>\
+          <ul  class='nav nav-tabs'>\
+        <li class='active' style='font-size: 1.1em;margin: 1%;'>\
+        <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
+        </li>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
+        </li>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
+        </li>\
+        </ul>\
+        <div class='tab-content'>\
+        <div class='tab-pane active' id='1a'>\
+        <h1>Introduction</h1>\
+          <p>Aha! That's the we all been waiting for!!\
+          </p>\
+        </div>\
+        <div class='tab-pane' id='2a'>\
+        <h1>About:</h1>\
+          <p>Classic Robo Soccer game.</p>\
+        </div>\
+        <div class='tab-pane' id='3a'>\
+        <h1>Event rules:</h1><p>\
+        1.A team may consist of a maximum of 3-4 members.<br>\
+        2.No person can be a part of more than one team.<br>\
+        3.All students must carry a valid identity card<br>\
+        4.Organizer’s decision shall be treated as final and binding on all.</p>\
+        5.Participation fees is 300/- per team.<br>\
+        6.Robots can be wired or wireless.<br>\
+        7.Operating Battery = 12Volts.<br>\
+        8. No locking System.<br>\
+        9. Body dimension = 40x40 cm (max).<br>\
+        10. Mouth Dimension = 10cm (max) [excluding body Dimension]<br>\
         </div>\
         </div>\
         </div>\
@@ -2202,8 +2131,8 @@ $('.card').on('click',function () {
         </div>\
         </div>\
           ";
-    var quadcopter = "<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>Quadcopter Challenge</h1>\
-        <ul  class='nav nav-tabs'>\
+    var quadcopter = "</a><h1 style='text-align:center;display:inline-block;width:70%;'>Web Creation</h1>\
+          <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
         <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
         </li>\
@@ -2211,92 +2140,59 @@ $('.card').on('click',function () {
         </li>\
         <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
         </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
-        </li>\
         </ul>\
         <div class='tab-content'>\
         <div class='tab-pane active' id='1a'>\
-        <h1 id='intro'>Introduction:</h1><p>\
-        Design and build a wireless remote controlled flying drone to complete the tasks with highest points possible. There are three Levels in the competition, of which one is a surprise Level which will be disclosed at the venue and the other is bonus level.<br>\
-        </p>\
-        <p>Event will be on 10th or 11th Febuary 2018</p>\
+        <h1>Introduction</h1>\
+          <p>Anybody here reads literature?.\
+          </p>\
         </div>\
         <div class='tab-pane' id='2a'>\
-        <h1 id='problem'>Event Description:</h1><p>\
-        The event is based on finding the agilest and fastest drone. The Event Description is simple: Pass through given levels and the team with a maximum number of points wins.</p>\
-        <br><a  href='/static/pdf/quadcopter.pdf'><button class='btn2'>Event Description PDF</button></a></div>\
-        <div class='tab-pane' id='3a'> \
-        <h1 id='rules'>Team Specifications:</h1> \
-        <p>1.Team can have a max of 5 people.<br>\
-        2.No person can be a part of more than one team.<br>\
-        3.All students must carry a valid identity card<br>\
-        4.All members of team need to register for the event<br>\
-        5.Students from different educational institutes can form a team.</p>\
-        <h1>Certificate Policy:</h1><p>\
-        1. Certificate of Merit and Prizes will be given for the top two teams.<br>\
-        2. Participation Certificate will be given for those who registered online and participated in the event.<br>\
-        3. Participation Certificate is not guaranteed for those who registered onspot for the event.</p>\
-        </div>\
-        <div class='tab-pane' id='4a'>\
-        <h1>Organisers</h1><p>\
-        <p>Saurav. C - 9618480733<br>\
-        Snehith - 8121618121<br>Dharmgya Sharma-8570040404<br>Parth Bhala-7798231598</p>\ <h1>Prize</h1>\
-        <p>Prizes Worth INR 50,000*/-</p>\
-        <p>Prizes will be given after April 2nd 2018</p>\
-        <h1>Contact:</h1>\
-        <p><a href='mailto:techy@elan.org.in'>techy@elan.org.in</a></p>\
-        </div>\
-        </div>\
-        </div>\
-        ";
-    var paperpt = "<a href='http://www.greenkogroup.com/' target='_blank'><img src='static/img/events/greenko.png' style='width:15%;'></a><h1 style='text-align:center;display:inline-block;width:70%;'>PAPER PRESENTATION</h1> \ <ul  class='nav nav-tabs'>\
-        <li class='active' style='font-size: 1.1em;margin: 1%;'>\
-        <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
-        </li>\
-        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#4a' data-toggle='tab'><i class='fas fa-trophy'></i>&nbsp;Organizers & Prizes</a>\
-        </li>\
-        </ul>\
-        <div class='tab-content'>\
-        <div class='tab-pane active' id='1a'>\
-        <h1>Introduction:</h1>\
-        <p>ELAN&ηvision is delighted to announce Paper Presentation which aims to provide a platform for innovation where students  present papers spanning various research topics pertaining to the different branches of engineering and science. We expect to see some really innovative work. The event will be conducted in two rounds and the qualifiers from the 1st round will be presenting their work in the 2nd round during ELAN&ηvision 2018.</p>\
-        </div>\
-        <div class='tab-pane' id='2a'>\
-        <h1>Event Description</h1>\
-        <p><br><a  href='/static/pdf/paperpt.pdf'><button class='btn2'>Event Description PDF</button></a></<p>\
-        <p>Register and submit your abstracts here: <a href='/paperpt'>elan.org.in/paperpt</a></p>\
+        <h1>About:</h1>\
+          <p>ROUND 1 :- The student has to design the Webpage showing the particulars.<br>[NOTE- Particulars to be added will be announced on spot.]</p>\
         </div>\
         <div class='tab-pane' id='3a'>\
-          <h1>Judging Criteria:</h1>\
-        <p>Correctness of facts<br>\
-        Methods of analysis<br>\
-        Innovativeness of idea<br>\
-        Presentation of solution or ideas<br>\
-        Practical feasibility or implication of ideas</p>\
-        <h1>Rules:</h1><p>\
-        The abstract should not exceed 500 words.<br>\
-        Short listing will be done based on the abstract.<br>\
-        All relevant data and figures must be represented in the paper<br>\
-        Organizers decision will be final and binding.<br>\
-        Teams of maximum 3 members are allowed.<br>\
-        Nominal fee will be charged at the time of presentation of paper(if selected).<br>\
-        All results will be announced on the website and will be mailed to the team members.<br>\
-        Any abstract that is selected and is not presented shall not qualify for any award.</p>\
-        </div>\
-        <div class='tab-pane' id='4a'>\
-        <h1>Prize</h1>\
-        <p>Prizes Worth INR 20,000*/-</p>\
-        <p>Prizes will be given after April 2nd 2018</p>\
-        <h1>Contact:</h1>\
-        <p><a href='mailto:techy@elan.org.in'>techy@elan.org.in</a></p>\
+        <h1>Event rules:</h1><p>\
+        1.A team may consist of a maximum of 1-2 members.<br>\
+        2.No person can be a part of more than one team.<br>\
+        3.All students must carry a valid identity card<br>\
+        4.Organizer’s decision shall be treated as final and binding on all.</p>\
+        5.Participation fees is 50/- per head.\
         </div>\
         </div>\
         </div>\
-        ";
+          ";
+    var paperpt = "</a><h1 style='text-align:center;display:inline-block;width:70%;'>Best Out Of Waster</h1>\
+          <ul  class='nav nav-tabs'>\
+        <li class='active' style='font-size: 1.1em;margin: 1%;'>\
+        <a style='color:white' href='#1a' data-toggle='tab'><i class='fa fa-align-justify' aria-hidden='true'></i>&nbsp;Introduction</a>\
+        </li>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#2a' data-toggle='tab'><i class='fas fa-question-circle'></i>&nbsp;Event Description</a>\
+        </li>\
+        <li class='' style='font-size: 1.1em;margin: 1%;'><a style='color:white' href='#3a' data-toggle='tab'><i class='fas fa-exclamation-triangle'></i>&nbsp;Rules & Regulations</a>\
+        </li>\
+        </ul>\
+        <div class='tab-content'>\
+        <div class='tab-pane active' id='1a'>\
+        <h1>Introduction</h1>\
+          <p>Trust us maths is a beauty.\
+          </p>\
+        </div>\
+        <div class='tab-pane' id='2a'>\
+        <h1>About:</h1>\
+          <p>There will be a model presentation.<br>The student have to make a technical model out of waste products only.</p>\
+        </div>\
+        <div class='tab-pane' id='3a'>\
+        <h1>Event rules:</h1><p>\
+        1.A team may consist of a maximum of 4-5 members.<br>\
+        2.No person can be a part of more than one team.<br>\
+        3.All students must carry a valid identity card<br>\
+        4.Organizer’s decision shall be treated as final and binding on all.</p>\
+        5.Participation fees is 400/- per team.\
+        </div>\
+        </div>\
+        </div>\
+          ";
     var helloworld = "</a><h1 style='text-align:center;display:inline-block;width:70%;'>MathOnauts</h1>\
           <ul  class='nav nav-tabs'>\
         <li class='active' style='font-size: 1.1em;margin: 1%;'>\
@@ -2315,7 +2211,7 @@ $('.card').on('click',function () {
         </div>\
         <div class='tab-pane' id='2a'>\
         <h1>About:</h1>\
-          <p>The event will have two rounds<br>Round 1: The event will have a quiz based on basic Physics understanding.<br>Round 2: This round will have a quiz based on basic concepts of engineering physics.</p>\
+          <p>Round 1: There will be a quiz  based on concepts of Mathematics.<br><br>*Questions can be aptitude types.<br>Round 2 :- Students have to solve few differential and integral equations in a particular time.</p>\
         </div>\
         <div class='tab-pane' id='3a'>\
         <h1>Event rules:</h1><p>\
